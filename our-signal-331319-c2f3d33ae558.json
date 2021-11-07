@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "our-signal-331319",
+  "private_key_id": "c2f3d33ae558b4d2ae436033c813ac37447fd2e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSTzsErdiaUqWg\nU4k17Q95sMqpOqWsqb9lq2PZzF2P4odKrBZWBT9aH+URT6UFfafnliRju2OKGuks\noBPy/fdAgE9v++uM4qtLEMZlTAAqP6WPgcM03aRkuDnOXb9QBM4zml0URSRT/Gli\nKWz8IjVP83/SL8Gl3mfbn7FJlEFPSq/TTE32YZkaSw10qb+jOZXj8JtF61OgXPfX\nvLg6As5L/m9p3WJy2NlSYMm87GXkfD8izekf+3R/B2tR9FWk0/OfKBIrUMeFbtjP\nQubOhVeernRc1+OXrKoZetZw/r9lzwsfwV3U2/9kqTsTdxJEbJHbmsovF+MSx9tN\nRoL2MAZbAgMBAAECggEABcE9RYeBodduc3tVtIVkIwRUx1oKJotj6A2kkdUnH5on\nRu0mlKatcR3mUBmfKQ34hjx0NSEaPDE4UuGef3Zg9Fbj1ZX4gBvDwYNtVQrwsOHv\npIRR1HnW1xq4xOOJKftiWRnO6jsUyhI3dVmE2JwRsWUMXl1dgy3EJx0GO5Pe+vhs\n1fjoW1r0ofnTI9rShJ4tROQw1kyYQZwGfB/8J5n4f5RQVXbv0wC/pYihPKd6A4t9\nmwq1eb4RBtpm3KeQIDlWgtKM6brE2C8I2fIO1j0wj6HfOcDykPMVfAgaUSX9OoFk\nT//3F8OOmmBdht4jlMrdPs/7bI1vrRNEuxL67C6nQQKBgQD3FIKgTPX0gLbcvI0x\ndcH+W5gPfzuIxT9NvC8gXI6KLC81isHBePI9PMQUNt9/NIUXWZIN//DfvTl898xN\nExXAOhZJCc5cVloicrT6RPKMnWuuw21tv4Z94ex6gBye8WdiUHqsegp1bMsv0igA\nAO6dJWE2P1AEpTizuBtrFBfucwKBgQDZ5uPNaP7F90Da1DD2j5SiUwi9SdAqR5D+\nZ4ZSEkENRucHv/9Gew5kXwq1JmaMawo3CDCNZ3tvUfghfx2k3UmEEuI9YqY2/c0w\naprBSf90ecalfHXVsUaQFB4bbeOw2Rk4UEiJCuFhJqWHRbv5SsGdTJq1vWjb+cvN\nyoDW6IfmeQKBgQDwWrJr0BIfZKr+dil/6MbrchytTp8SgJcBPsQ1XfSHc04FbtLn\nK4myio9P/sVR0Dx8J3UOS2D9tezbpY7Hl348PgV5zaFCb/pEsoNdRn8QzP54xsGH\n1p21jXZnAINXFwz0NcfwStQrwMaz4WNqBX4ZvsgfZl2n9zX+lmWNt8FEAwKBgF/t\nAC4mYbpe3eM39JImpUVMjpVeEFD8jn0gsAYjWRXyN7S2tjed5rkTChCzZgO8/5M4\nfL9TZgicqkJ8xl0Uuc91zLk/W3LsCk+dLqGW5Omuzl99yhYX47t7z8E9gDYTbMHY\nvgXuj0eIjuhdL6JQYanQ1m7ZgncMocbntg5l8aXpAoGAB1bpJ4K0MzdXR3FX4Uxs\ns97pTFsKVg4ATqXR/VP3X5XXLK3oYt4AAw7MMlZ4uqFbolcEWQ1ug1jRoUJu2H5V\nEjoTU4HlPSOnN2WurkDcrwPRSwtsn2Q/HzHUSdyix5RkyvR0HD+ufSC4VC8uhkQC\nDUcvYrXHFRJqMyM6sJTHgVE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackumass@our-signal-331319.iam.gserviceaccount.com",
+  "client_id": "112017475785860353246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackumass%40our-signal-331319.iam.gserviceaccount.com"
+}
